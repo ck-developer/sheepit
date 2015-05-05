@@ -1,0 +1,22 @@
+{
+  "name": "sheepit",
+  "version": "1.1.1",
+  "homepage": "http://www.mdelrosso.com/sheepit",
+  "authors": [
+    { "name": "John Doe", "email": "mdelrosso@gmail.com", "homepage": "http://www.mdelrosso.com/sheepit/" },
+    { "name": "John Doe", "email": "john@doe.com", "homepage": "http://www.khedhiri.com" }
+  ],
+  "description": " SheepIt! Form Cloning plugin for Jquery http://www.mdelrosso.com/sheepit/",
+  "main": "dist/*",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
